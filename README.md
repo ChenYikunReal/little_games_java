@@ -1,5 +1,5 @@
-# little_games_java
-使用Java编写的小游戏集合
+# 使用Java编写的小游戏集合
+
 
 ## 游戏集合
 - [扫雷](https://github.com/ChenYikunReal/java_mine_sweeping)
